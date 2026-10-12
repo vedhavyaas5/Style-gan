@@ -149,4 +149,4 @@ $$\mathcal{L}_{R_1} = \frac{\gamma}{2} \mathbb{E}_{x \sim p_{\text{data}}} \left
 ---
 
 ## 📄 License
-MIT License
+MIT License# style-gan
